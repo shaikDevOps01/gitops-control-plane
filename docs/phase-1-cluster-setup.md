@@ -1,11 +1,7 @@
-## ✅ Perfect Plan – Let's Build the GitHub Repo Phase by Phase
-
-This is the right way. We will build a clean, professional GitHub repository **step by step**.
-I will give you the files for **Phase 1** right now. You will copy them into VS Code, commit, and push. Then you say **"Done with Phase 1"**, and I will give you the files for Phase 2, and so on.
 
 ---
 
-### 📂 Repo Details (Create this on GitHub first)
+### 📂 Repo Details 
 
 1. Go to [github.com/new](https://github.com/new).
 2. **Repository name:** `gitops-control-plane`
