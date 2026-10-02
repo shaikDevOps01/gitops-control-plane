@@ -145,9 +145,8 @@ If you want to replicate this project locally, follow these high-level steps:
 
 ## 👤 Author & Portfolio
 
-**Your Name**  
-📧 [Your Email]  
-🔗 [Link to your LinkedIn]
+Shaik.Dasthagiri
+📧 shaik.dasthagiri124@gmail.com
 
 *This project is part of my public portfolio. I am actively looking for DevOps/SRE roles where I can apply these GitOps principles to manage large-scale Kubernetes fleets.*
 
@@ -160,5 +159,3 @@ If you want to replicate this project locally, follow these high-level steps:
 - [ ] Build a **GitHub Actions** pipeline to build images, scan with Trivy, and automatically update the Git manifests.
 - [ ] Implement **ApplicationSet** to manage deployments across 10+ spokes automatically.
 ```
-
----
